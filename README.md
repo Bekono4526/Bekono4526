@@ -1,4 +1,5 @@
 ### Hi there 👋
+ 🌱 I’m currently learning hwo to use github
 
 <!--
 **Bekono4526/Bekono4526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
