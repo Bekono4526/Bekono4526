@@ -1,7 +1,7 @@
 ### Hi there 👋
- -🌱 I’m currently learning how to use github
- -😄 Pronouns: she
- -⚡ Fun fact: my name means ghosts
+ 🌱 I’m currently learning how to use github
+ 😄 Pronouns: she
+ ⚡ Fun fact: my name means ghosts
 <!--
 **Bekono4526/Bekono4526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
